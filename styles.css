@@ -10,12 +10,12 @@ a:hover{
 }
 
 h1{color: chartreuse;
-    background-color: blue;
+    background-color: yellowgreen;
 text-align: center;}
 h2{
-    color: white;
+    color: red;
 }
-h3{color: gold;}
+h3{color:  grey;}
 
 html{
     color: orange;
