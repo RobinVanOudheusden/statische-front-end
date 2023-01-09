@@ -1,0 +1,30 @@
+body {
+    background-color: paleturquoise;
+}
+
+a{
+    color: blue;
+}
+a:hover{
+    color: azure;
+}
+
+h1{color: chartreuse;
+    background-color: blue;
+text-align: center;}
+h2{
+    color: white;
+}
+h3{color: gold;}
+
+html{
+    color: orange;
+}
+
+body{
+    margin-top: 50px;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+}
